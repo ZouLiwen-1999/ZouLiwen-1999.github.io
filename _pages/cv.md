@@ -19,16 +19,28 @@ Education
   *  Supervisor: [Prof. Delu Zeng](https://scut-dacim.github.io/probre.html)
   *  Thesis: Measuring the Rogue Wave Pattern Triggered from Gaussian Perturbations by Deep Learning
 
-Research Projects
+Research Project
 ======
-* September 2020 - December 2025, [Nanjing University](https://www.nju.edu.cn/), Ph.D. candidate in Applied Mathematics
-  *  Supervisor: [Prof. Xiaoping Yang](https://math.nju.edu.cn/jzyg/apypl/20240321/i261837.html)
-  *  Thesis: Mechanism Modeling, Clinical Thinking and Deep Learning Fused Medical Image Segmentation Methods for Precision Diagnosis and Treatment of Pancreatic Cancer
+* April 2022 – April 2023, Research on CT Image Segmentation Algorithms for Pancreatic Tumors and Peripancreatic Vessels
+  *  Funding: Postgraduate Research and Practice Innovation Program of Jiangsu Province, China (No. KYCX22_0082)
+  *  Description: Establish high-precision segmentation frameworks integrating mathematical modeling and deep learning to achieve automated segmentation of pancreatic tumors and peripancreatic vessels.
 
-* September 2016 - June 2020, [South China University of Technology](https://www.scut.edu.cn/), B.S. in Information and Computing Science
-  *  Supervisor: [Prof. Delu Zeng](https://scut-dacim.github.io/probre.html)
-  *  Thesis: Measuring the Rogue Wave Pattern Triggered from Gaussian Perturbations by Deep Learning
-
+Honors
+======
+* National Scholarship for Doctoral Students, Nanjing University | 2023-2024
+* Outstanding Graduate Student Model, Nanjing University | 2023-2024
+* Honorable Mention Award, MICCAI PARSE 2022: Pulmonary Artery Segmentation Challenge | 2022
+* Outstanding Graduate Student Model, Nanjing University | 2022-2023
+* Huawei Scholarship, Nanjing University | 2022-2023
+* First Prize, 2nd College Student Simulation of International Academic Conference English Presentation Competition | 2023
+* First-Class Talent Scholarship, Nanjing University | 2021-2022
+* Outstanding Graduate Student, Nanjing University | 2021-2022
+* Outstanding Volunteer, School of Mathematics, Nanjing University | 2020
+* Outstanding Graduation Thesis Award, South China University of Technology | 2020
+* Grand Prize, Mathematics Competition, South China University of Technology | 2019
+* Second Prize, National College Student Mathematics Competition (Guangdong Division) | 2018
+* National Encouragement Scholarship, South China University of Technology | 2018-2019
+* National Encouragement Scholarship, South China University of Technology | 2017-2018
 
 Patents
 ======
