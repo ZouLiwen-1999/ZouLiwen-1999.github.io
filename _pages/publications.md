@@ -24,7 +24,7 @@ author_profile: true
  * <b> Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning</b> <br> 
   <b>Zou, L.,</b> Luo, X., Zeng, D., Ling, L., Zhao, L. C. <br>
   <b>Physical Review E, 105(5), 054202. (2022 IF: 2.7)</b><br>
-  [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[pdf](../files/PMB2023-CTG-Net.pdf)]
+  [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[code](https://github.com/ZouLiwen-1999/RogueWave)][[pdf](../files/PMB2023-CTG-Net.pdf)]
 
  * <b> A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors</b> <br> 
   Wang, B., <b>Zou, L.,</b> Chen, J., Cao, Y., Cai, Z., Qiu, Y., Mao, L., Wang, Z., Chen, J. Y., Gui, L., Yang, X. <br>
@@ -47,7 +47,7 @@ author_profile: true
 * <b> Deep learning radiomics based prediction of axillary lymph node metastasis in breast cancer</b> <br> 
   Liu, H.*, <b>Zou, L.\*,</b> Xu, N.\*, Shen, N.\*, Zhang, Y., Wan, P., Wen, B., Zhang, X., He, Y., Gui, L., Kong, W. (Co-first authors) <br>
   <b>NPJ Breast Cancer 10(1): 22. (2025 IF: 7.6)</b><br>
-  [[paper](https://doi.org/10.1038/s41523-024-00628-4)][[pdf](../files/NPJBreastCancer-ALN.pdf)]
+  [[paper](https://doi.org/10.1038/s41523-024-00628-4)][[code](https://github.com/ZouLiwen-1999/ALN_metastasis_Pred)][[pdf](../files/NPJBreastCancer-ALN.pdf)]
 
 * <b> Combining Artificial Intelligence Assisted Image Segmentation and Ultrasound Based Radiomics for The Prediction of Carotid Plaque Stability</b> <br> 
   Song, J.*, <b>Zou, L.\*,</b> Li, Y., Qiu, J., Gong, K. (Co-first authors) <br>
