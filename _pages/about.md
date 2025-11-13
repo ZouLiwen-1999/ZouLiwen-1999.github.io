@@ -13,7 +13,7 @@ About me
 
 - Previously, I received a Bachelor’s Degree at School of Mathematics in [South China University of Technology](https://www.scut.edu.cn/) in 2020, advised by [Prof. Delu Zeng](https://scut-dacim.github.io/probre.html)
 
-- You can find my CV here [Liwen Zou's CV](https://github.com/ZouLiwen-1999/ZouLiwen-1999.github.io/blob/master/files/LiwenZou-CV.pdf)
+- You can find my CV here: [Liwen Zou's CV](https://github.com/ZouLiwen-1999/ZouLiwen-1999.github.io/blob/master/files/LiwenZou-CV.pdf)
 
 
 
