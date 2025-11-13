@@ -7,29 +7,26 @@ author_profile: true
 **Technical Journals**  
 
 * <b> Segment Like A Doctor: Learning reliable clinical thinking and experience for pancreas and pancreatic cancer segmentation</b> <br> 
-  <b>Zou, L.,</b> Cao, Y., Nie, Z., Mao, L., Qiu, Y., Wang, Z., Cai, Z. & Yang, X. <br>
-  <b>Medical Image Analysis, 102 (2025), 103539.</b><br>
+  <b>Zou, L.,</b> Cao, Y., Nie, Z., Mao, L., Qiu, Y., Wang, Z., Cai, Z.*, Yang, X.* <br>
+  <b>Medical Image Analysis, 102 (2025), 103539. (2025 IF: 11.8)</b><br>
   [[paper](https://doi.org/10.1016/j.media.2025.103539)][[code](https://github.com/ZouLiwen-1999/SLAD)][[pdf]](../files/MedIA2025-SLAD.pdf)
 
- * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
-  <b>Medical Image Analysis, 82 (2022): 102642. (2022 IF 13.828)</b>.<br>
-  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522002705)][[code](https://github.com/HiLab-git/WORD)][[pdf](../files/WORD-MedIA2022.pdf)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
+ * <b> Automated Peripancreatic Vessel Segmentation and Labeling Based on Iterative Trunk Growth and Weakly Supervised Mechanism</b> <br> 
+  <b>Zou, L.,</b> Cai, Z., Mao L., Nie, Z., Qiu, Y., Yang, X.* <br>
+  <b>Artificial Intelligence in Medicine, 150 (2024), 102825. (2023 IF: 7.5)</b><br>
+  [[paper](https://doi.org/10.1016/j.artmed.2024.102825)][[code](https://github.com/ZouLiwen-1999/APESA)][[pdf]](../files/AIIM2024-APESA.pdf)
+
+ * <b> CTG-Net: An Efficient Cascaded Framework Driven by Terminal Guidance Mechanism for Dilated Pancreatic Duct</b> <br> 
+  <b>Zou, L.,</b> Cai, Z., Qiu, Y., Gui, L., Mao, L., Yang, X.* <br>
+  <b>Physics in Medicine and Biology, 68 (2023), 215006. (2023 IF: 3.5)</b><br>
+  [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[pdf]](../files/PMB2023-CTG-Net.pdf)
+
+ * <b> Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning</b> <br> 
+  <b>Zou, L.,</b> Luo, X., Zeng, D.*, Ling, L., & Zhao, L. C. <br>
+  <b>Physics in Medicine and Biology, 68 (2023), 215006. (2023 IF: 3.5)</b><br>
+  [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[pdf]](../files/PMB2023-CTG-Net.pdf)
    
- * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
-  <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
-   <b>Medical Image Analysis, 80 (2022): 102517. (2022 IF 13.828),   [<font color="red">ESI Highly Cited Papers</font>](https://webofscience.clarivate.cn/wos/woscc/full-record/WOS:000861615200007)</b>.<br>
-  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522001645)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/URPC-MedIA2022.pdf)]
-    
- * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
- <b>Xiangde Luo</b>, Tao Song, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
- <b>Medical Image Analysis, 75 (2022): 102287. (2022 IF 13.828)</b>.<br>
- [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327)][[code](https://github.com/HiLab-git/SCPM-Net)][[pdf](../files/SCPM-Net-MedIA2022.pdf)]
-  
- * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
- <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
- <b>Medical Image Analysis, 72 (2021): 102102. (2021 IF 8.545)</b>.<br>
- [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[pdf](../files/MIDeepSeg-MedIA2021.pdf)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
+ 
 
 **Clinical Journals**  
 * <b>Generalizable MRI-based Nasopharyngeal Carcinoma Delineation: Bridging Gaps across Multiple Centers and Raters with Active Learning</b><br> 
