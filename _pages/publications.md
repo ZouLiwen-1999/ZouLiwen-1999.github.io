@@ -23,12 +23,12 @@ author_profile: true
 
  * <b> Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning</b> <br> 
   <b>Zou, L.,</b> Luo, X., Zeng, D., Ling, L., Zhao, L. C. <br>
-  <b>Physics in Medicine and Biology, 68 (2023), 215006. (2023 IF: 3.5)</b><br>
+  <b>Physical Review E, 105(5), 054202. (2022 IF: 2.7)</b><br>
   [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[pdf](../files/PMB2023-CTG-Net.pdf)]
 
  * <b> A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors</b> <br> 
   Wang, B., <b>Zou, L.,</b> Chen, J., Cao, Y., Cai, Z., Qiu, Y., Mao, L., Wang, Z., Chen, J. Y., Gui, L., Yang, X. <br>
-  <b>IEEE Journal of Biomedical and Health Informatics, 28(2), 988-999. (2023 IF: 7.8)</b><br>
+  <b>IEEE Journal of Biomedical and Health Informatics, 28(2), 988-999. (2023 IF: 7.7)</b><br>
   [[paper](https://doi.org/10.1109/JBHI.2023.3340686)][[pdf](../files/JBHI2024-TLS.pdf)]
 
  * <b> A two-stage data-model driven pancreas segmentation strategy embedding directional information of the boundary intensity gradient and deep adaptive pointwise parameters</b> <br> 
@@ -58,9 +58,9 @@ author_profile: true
   
 **Conferences**
 * <b> Selected Partially Labeled Learning for Abdominal Organ and Pan-cancer Segmentation</b> <br>
-Zhu, Y., <b>Zou, L.,</b> Li, L., Wen, P. <br>
-<b>In MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation. Cham: Springer Nature Switzerland. 209-221.</b><br>
-[[paper](https://doi.org/10.1007/978-3-031-58776-4_17)][[pdf](../files/MICCAI-FLARE2023-AbdPanSeg.pdf)]
+  Zhu, Y., <b>Zou, L.,</b> Li, L., Wen, P. <br>
+  <b>In MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation. Cham: Springer Nature Switzerland. 209-221.</b><br>
+  [[paper](https://doi.org/10.1007/978-3-031-58776-4_17)][[pdf](../files/MICCAI-FLARE2023-AbdPanSeg.pdf)]
 
 * <b>A Novel Pseudo Label-Based Unsupervised Multiple Target Domain Adaptation Framework for Abdominal Organ Segmentation</b> <br> 
   Zhu, Y., <b>Zou, L.,</b> Wen, P., Nie, Z., Gui, L., Yang, X. <br>
