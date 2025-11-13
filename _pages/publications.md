@@ -6,11 +6,10 @@ author_profile: true
 
 **Technical Journals**  
 
-* <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals</b> <br> 
-  Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
-Wenjun Liao, <b>Xiangde Luo*</b><br> 
-  <b>IEEE Transaction on Medical Imaging, 43 (12): 4078-4090. (2024 IF 8.9).</b><br>
-  [[paper](https://ieeexplore.ieee.org/document/10553522)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Active-GTV-Seg-2023.pdf)[[dataset]](https://github.com/whq-xxh/Active-GTV-Seg)
+* <b> Segment Like A Doctor: Learning reliable clinical thinking and experience for pancreas and pancreatic cancer segmentation</b> <br> 
+  <b>Zou, L.,</b> Cao, Y., Nie, Z., Mao, L., Qiu, Y., Wang, Z., Cai, Z. & Yang, X. <br>
+  <b>Medical Image Analysis, 102 (2025), 103539.</b><br>
+  [[paper](https://doi.org/10.1016/j.media.2025.103539)][[code](https://github.com/ZouLiwen-1999/SLAD)][[pdf]](../files/MedIA2025-SLAD.pdf)
 
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
