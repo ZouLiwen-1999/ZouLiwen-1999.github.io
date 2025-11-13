@@ -22,6 +22,6 @@ Education
 
 Patents
 ======
-* Yang, X, <b>Zou, L., <b> <br> Cai, Z., Qiu, Y., Gui, L., & Mao, L. (2023). A Dilated Pancreatic Duct Segmentation Method Based on Cascaded Terminal Guidance Mechanism. China Patent, No. 202310639583.1.
-* Yang, X., <b>Zou, L., <b> <br> Cai, Z., Qiu, Y., Nie, Z., & Mao, L. (2023). A Peripancreatic Vessel Segmentation and Labeling Method Based on Iterative Trunk Growth and Weakly Supervised Learning. China Patent, No. 202310639579.5.
-* Yang, X., Tian, L., <b>Zou, L., <b> <br> Nie, Z., Wen, P., & Cao, Y. (2025). A Weakly Supervised Variational Segmentation Algorithm Based on Single-Point Annotation. China Patent, No. 202510010071.8.
+* Yang, X, <b>Zou, L., </b> Cai, Z., Qiu, Y., Gui, L., & Mao, L. (2023). A Dilated Pancreatic Duct Segmentation Method Based on Cascaded Terminal Guidance Mechanism. China Patent, No. 202310639583.1.
+* Yang, X., <b>Zou, L., </b> Cai, Z., Qiu, Y., Nie, Z., & Mao, L. (2023). A Peripancreatic Vessel Segmentation and Labeling Method Based on Iterative Trunk Growth and Weakly Supervised Learning. China Patent, No. 202310639579.5.
+* Yang, X., Tian, L., <b>Zou, L., </b> Nie, Z., Wen, P., & Cao, Y. (2025). A Weakly Supervised Variational Segmentation Algorithm Based on Single-Point Annotation. China Patent, No. 202510010071.8.
