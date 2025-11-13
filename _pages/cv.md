@@ -27,20 +27,20 @@ Research Project
 
 Honors
 ======
-* National Scholarship for Doctoral Students, Nanjing University | 2023-2024
-* Outstanding Graduate Student Model, Nanjing University | 2023-2024
-* Honorable Mention Award, MICCAI PARSE 2022: Pulmonary Artery Segmentation Challenge | 2022
-* Outstanding Graduate Student Model, Nanjing University | 2022-2023
-* Huawei Scholarship, Nanjing University | 2022-2023
-* First Prize, 2nd College Student Simulation of International Academic Conference English Presentation Competition | 2023
-* First-Class Talent Scholarship, Nanjing University | 2021-2022
-* Outstanding Graduate Student, Nanjing University | 2021-2022
-* Outstanding Volunteer, School of Mathematics, Nanjing University | 2020
-* Outstanding Graduation Thesis Award, South China University of Technology | 2020
-* Grand Prize, Mathematics Competition, South China University of Technology | 2019
-* Second Prize, National College Student Mathematics Competition (Guangdong Division) | 2018
-* National Encouragement Scholarship, South China University of Technology | 2018-2019
-* National Encouragement Scholarship, South China University of Technology | 2017-2018
+* National Scholarship for Doctoral Students, Nanjing University, 2023-2024
+* Outstanding Graduate Student Model, Nanjing University, 2023-2024
+* Honorable Mention Award, MICCAI PARSE 2022: Pulmonary Artery Segmentation Challenge, 2022
+* Outstanding Graduate Student Model, Nanjing University, 2022-2023
+* Huawei Scholarship, Nanjing University, 2022-2023
+* First Prize, 2nd College Student Simulation of International Academic Conference English Presentation Competition, 2023
+* First-Class Talent Scholarship, Nanjing University, 2021-2022
+* Outstanding Graduate Student, Nanjing University, 2021-2022
+* Outstanding Volunteer, School of Mathematics, Nanjing University, 2020
+* Outstanding Graduation Thesis Award, South China University of Technology, 2020
+* Grand Prize, Mathematics Competition, South China University of Technology, 2019
+* Second Prize, National College Student Mathematics Competition (Guangdong Division), 2018
+* National Encouragement Scholarship, South China University of Technology, 2018-2019
+* National Encouragement Scholarship, South China University of Technology, 2017-2018
 
 Patents
 ======
