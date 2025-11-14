@@ -42,7 +42,7 @@ author_profile: true
   [[paper](https://doi.org/10.1088/1402-4896/ae176e)][[pdf](../files/PHYSSCR2025-SinglePoint.pdf)]
 
  * <b> 2AM: Weakly Supervised Tumor Segmentation in Pathology via CAM and SAM Synergy</b> <br> 
-  Ren, C., <b>Zou, L.\*,</b> Gui, L.* <b>(Co-corresponding authors)</b>
+  Ren, C., <b>Zou, L.\*,</b> Gui, L.* <b>(Co-corresponding authors)</b><br>
   <b>Electronics</b>, 14 (15), 3109. (2025 IF: 2.6)<br>
   [[paper](https://doi.org/10.3390/electronics14153109)][[pdf](../files/Electronics2025-2AM.pdf)]
 
