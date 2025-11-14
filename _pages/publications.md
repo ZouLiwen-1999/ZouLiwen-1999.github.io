@@ -38,7 +38,7 @@ author_profile: true
 
  * <b> Medical Image Segmentation Started from a Single Point Annotation: A Novel Variational Model</b> <br> 
   Tian, L., <b>Zou, L.,</b> Yang, X. <br>
-  <b>Physica Scripta, 100, 115207 (2023 IF: 2.6)</b><br>
+  <b>Physica Scripta, 100, 115207 (2025 IF: 2.6)</b><br>
   [[paper](https://doi.org/10.1088/1402-4896/ae176e)][[pdf](../files/PHYSSCR2025-SinglePoint.pdf)]
    
  
