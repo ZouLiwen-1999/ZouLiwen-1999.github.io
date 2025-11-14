@@ -24,7 +24,7 @@ author_profile: true
  * <b> Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning</b> <br> 
   <b>Zou, L.,</b> Luo, X., Zeng, D., Ling, L., Zhao, L. C. <br>
   <b>Physical Review E, 105(5), 054202. (2022 IF: 2.7)</b><br>
-  [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[code](https://github.com/ZouLiwen-1999/RogueWave)][[pdf](../files/PMB2023-CTG-Net.pdf)]
+  [[paper](https://doi.org/10.1103/PhysRevE.105.054202)][[code](https://github.com/ZouLiwen-1999/RogueWave)][[pdf](../files/PMB2023-CTG-Net.pdf)]
 
  * <b> A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors</b> <br> 
   Wang, B., <b>Zou, L.,</b> Chen, J., Cao, Y., Cai, Z., Qiu, Y., Mao, L., Wang, Z., Chen, J. Y., Gui, L., Yang, X. <br>
