@@ -21,10 +21,8 @@ Education
 
 Research Projects
 ======
-* April 2022 – April 2023, Accurate and Efficient AI models for Pancreatic Cancer and Peripancreatic Vessel Segmentation on CT Images.
-  *  Funding: Postgraduate Research and Practice Innovation Program of Jiangsu Province, China, No. KYCX22_0082.
-* December 2020 – December 2025, Mathematical Models and Efficient Algorithms for Accurate Segmentation of Pancreatobiliary Malignant Tumors and Complex Vascular Structures in Medical Images.
-  *  Funding: Ministry of Science and Technology of the People’s Republic of China, No. 2020YFA0713802.
+* April 2022 – April 2023, Accurate and Efficient AI models for Pancreatic Cancer and Peripancreatic Vessel Segmentation on CT Images. (Funding: Postgraduate Research and Practice Innovation Program of Jiangsu Province, China, No. KYCX22_0082)
+* December 2020 – December 2025, Mathematical Models and Efficient Algorithms for Accurate Segmentation of Pancreatobiliary Malignant Tumors and Complex Vascular Structures in Medical Images. (Funding: Ministry of Science and Technology of the People’s Republic of China, No. 2020YFA0713802)
 
 Honors
 ======
