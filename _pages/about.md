@@ -16,4 +16,6 @@ About me
 - You can find my CV here: [Liwen Zou's CV](https://github.com/ZouLiwen-1999/ZouLiwen-1999.github.io/blob/master/files/LiwenZou-CV.pdf)
 
 
-
+Recent News 
+======
+- September, 2025, our manuscript entitled "Deep Learning to Predict Extrapancreatic Perineural Invasion at CT images" has been accepted by <b> Annals of Medicine. <b/>
