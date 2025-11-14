@@ -8,7 +8,7 @@ author_profile: true
 
 * <b> Segment Like A Doctor: Learning reliable clinical thinking and experience for pancreas and pancreatic cancer segmentation</b> <br> 
   <b>Zou, L.,</b> Cao, Y., Nie, Z., Mao, L., Qiu, Y., Wang, Z., Cai, Z., Yang, X. <br>
-  <b>Medical Image Analysis, 102 (2025), 103539. (2025 IF: 11.8)</b><br>
+  <b>Medical Image Analysis</b><br>, 102 (2025), 103539. (2025 IF: 11.8)
   [[paper](https://doi.org/10.1016/j.media.2025.103539)][[code](https://github.com/ZouLiwen-1999/SLAD)][[pdf](../files/MedIA2025-SLAD.pdf)]
 
  * <b> Automated Peripancreatic Vessel Segmentation and Labeling Based on Iterative Trunk Growth and Weakly Supervised Mechanism</b> <br> 
