@@ -23,7 +23,7 @@ repository               : "ZouLiwen-1999/ZouLiwen-1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.png"
+  avatar           : "avatar1.png"
   name             : "Liwen Zou"
   pronouns         : # example: "she/her"  
   bio              : "I am a researcher focused on AI for Biomedical Engineering"
