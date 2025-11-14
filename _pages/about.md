@@ -20,4 +20,4 @@ Recent News
 ======
 - September, 2025, our manuscript entitled "Deep Learning to Predict Extrapancreatic Perineural Invasion at CT images" has been accepted by *Annals of Medicine*. 
 
-- February, 2025, our manuscript entitled "Segment Like A Doctor: Learning reliable clinical thinking and experience for pancreas and pancreatic cancer segmentation" has been accepted by *Medical Image Analysis*.
+- February, 2025, our new work focused on pancreas and pancreatic cancer segmentation has been accepted by *Medical Image Analysis*.
