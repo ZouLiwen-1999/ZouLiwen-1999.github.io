@@ -18,6 +18,12 @@ About me
 
 Recent News 
 ======
+- November 3, 2025, I passed my Ph.D. defence! 
 - September, 2025, our manuscript entitled "Deep Learning to Predict Extrapancreatic Perineural Invasion at CT images" has been accepted by *Annals of Medicine*. 
 
-- February, 2025, our new work focused on pancreas and pancreatic cancer segmentation has been accepted by *Medical Image Analysis*.
+- February, 2025, our [new work](https://doi.org/10.1016/j.media.2025.103539) focused on pancreas and pancreatic cancer segmentation has been accepted by *Medical Image Analysis*. The highlights of this study can be summarized as follows:
+  → A novel framework is proposed for pancreas and pancreatic cancer segmentation.
+  → An Anatomy-aware Masked AutoEncoder is introduced for self-supervised pretraining.
+  → A Causality-driven Graph Reasoning Module is developed for lesion core detection.
+  → A Diffusion-based Discrepancy Calibration Module is designed for boundary refinement.
+  → We achieve better segmentation performance for pancreatic cancer compared to the state-of-the-art methods.
