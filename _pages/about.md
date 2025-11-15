@@ -43,7 +43,7 @@ Recent News
  
 - December, 2023, [our manuscript](https://doi.org/10.1109/JBHI.2023.3340686) entitled "A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors" has been accepted by <b>*IEEE Journal of Biomedical and Health Informatics*</b>.
  
-- August, 2023, our [new work](https://doi.org/10.1016/10.1088/1361-6560/acf110) focused on dilated pancreatic duct segmentation in CT images has been accepted by <b>*Physics in Medicine and Biology*</b>. The highlights of this study can be summarized as follows:
+- August, 2023, our [new work](https://doi.org/10.1088/1361-6560/acf110) focused on dilated pancreatic duct segmentation in CT images has been accepted by <b>*Physics in Medicine and Biology*</b>. The highlights of this study can be summarized as follows:
   - We propose a novel cascaded segmentation framework driven by terminal guidance mechanism for the dilated pancreatic duct segmentation.
   - A terminal anatomy-aware module is designed to take the local intensity, feature cues of the targets and global anatomy information into account to improve the terminal segmentation performance.
   - A terminal distraction attention module is introduced to explicitly learn the distribution of the distraction tissues for reducing the false positive and false negative predictions.
