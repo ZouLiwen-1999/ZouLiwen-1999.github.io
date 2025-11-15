@@ -19,7 +19,7 @@ author_profile: true
  * <b> CTG-Net: An Efficient Cascaded Framework Driven by Terminal Guidance Mechanism for Dilated Pancreatic Duct</b> <br> 
   <b>Zou, L.,</b> Cai, Z., Qiu, Y., Gui, L., Mao, L., Yang, X. <br>
   <b>Physics in Medicine and Biology</b>, 68 (2023), 215006. (2023 IF: 3.5)<br>
-  [[paper](https://doi.org/10.1016/10.1088/1361-6560/acf110)][[pdf](../files/PMB2023-CTG-Net.pdf)]
+  [[paper](https://doi.org/10.1088/1361-6560/acf110)][[pdf](../files/PMB2023-CTG-Net.pdf)]
 
  * <b> Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning</b> <br> 
   <b>Zou, L.,</b> Luo, X., Zeng, D., Ling, L., Zhao, L. C. <br>
