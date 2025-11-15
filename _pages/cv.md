@@ -18,7 +18,7 @@ Education
 * September 2016 - June 2020, [South China University of Technology](https://www.scut.edu.cn/), B.S. in Information and Computing Science
   *  Supervisor: [Prof. Delu Zeng](https://scut-dacim.github.io/probre.html)
   *  Thesis: Measuring the Rogue Wave Pattern Triggered from Gaussian Perturbations by Deep Learning
-  *  <b>GPA: 3.80/4.00; Ranking</b>: 2/35<br>
+  *  <b>GPA: 3.80/4.00; Ranking: 2/35</b><br>
 
 Research Projects
 ======
