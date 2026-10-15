@@ -15,7 +15,7 @@ About me
 
 - I am interested in medical image analysis, building multi-modal medical foundation models and developing medical agents.
 
-- You can find my CV here: [Liwen Zou's CV](https://github.com/ZouLiwen-1999/ZouLiwen-1999.github.io/blob/master/files/LiwenZou-CV.pdf)
+- You can find my CV here: [Liwen Zou's CV](https://github.com/ZouLiwen-1999/ZouLiwen-1999.github.io/blob/master/files/LiwenZou_CV.pdf)
 
 
 Recent News 
