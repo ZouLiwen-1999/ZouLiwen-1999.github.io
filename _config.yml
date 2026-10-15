@@ -26,9 +26,9 @@ author:
   avatar           : "avatar1.png"
   name             : "Liwen Zou"
   pronouns         : # example: "she/her"  
-  bio              : "I am a researcher focused on AI for Biomedical Engineering"
-  location         : "Hong Kong, China"
-  employer         : "The Hong Kong Polytechnic University"
+  bio              : "I am a researcher focused on AI for medicine."
+  location         : "Hong Kong"
+  employer         : "HK PolyU"
   uri              : # URL
   email            : "zouliwen1999@outlook.com" 
 
