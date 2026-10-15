@@ -11,7 +11,7 @@ About me
 ======
 - I am a postdoctoral fellow at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
-- Previously, I completed my Ph.D. at [Nanjing University](https://www.nju.edu.cn/) and my B.S. at [South China University of Technology](https://www.scut.edu.cn/)
+- Previously, I completed my Ph.D. at [Nanjing University](https://www.nju.edu.cn/) (supervised by [Prof. Xiaoping Yang (https://math.nju.edu.cn/jzyg/apypl/20240321/i261837.html)) and my B.S. at [South China University of Technology](https://www.scut.edu.cn/)
 
 - I am interested in medical image analysis, building multi-modal medical foundation models and developing medical agents.
 
