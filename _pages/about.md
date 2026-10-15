@@ -31,16 +31,16 @@ Recent News
 
 - September, 2025, [our paper]([https://doi.org/10.1088/1402-4896/ae176e](https://doi.org/10.1080/07853890.2025.2568116)) entitled "Deep learning to predict extrapancreatic perineural invasion at CT images" has been accepted by <b>*Annals of Medicine*</b>. 
 
-- February, 2025, our [new work](https://doi.org/10.1016/j.media.2025.103539) focused on pancreas and pancreatic cancer segmentation has been accepted by <b>*Medical Image Analysis*</b>. The highlights of this study can be summarized as follows:
+- February, 2025, [our paper](https://doi.org/10.1016/j.media.2025.103539) focused on pancreas and pancreatic cancer segmentation has been accepted by <b>*Medical Image Analysis*</b>. The highlights of this study can be summarized as follows:
   - A novel framework is proposed for pancreas and pancreatic cancer segmentation.
   - An Anatomy-aware Masked AutoEncoder is introduced for self-supervised pretraining.
   - A Causality-driven Graph Reasoning Module is developed for lesion core detection.
   - A Diffusion-based Discrepancy Calibration Module is designed for boundary refinement.
   - We achieve better segmentation performance for pancreatic cancer compared to the state-of-the-art methods.
 
-- February, 2024, [our work](https://doi.org/10.1038/s41523-024-00628-4) entitled "Deep learning radiomics based prediction of axillary lymph node metastasis in breast cancer" has been accepted by <b>*NPJ Breast Cancer*</b>.
+- February, 2024, [our paper](https://doi.org/10.1038/s41523-024-00628-4) entitled "Deep learning radiomics based prediction of axillary lymph node metastasis in breast cancer" has been accepted by <b>*NPJ Breast Cancer*</b>.
  
-- February, 2024, our [new work](https://doi.org/10.1016/j.artmed.2024.102825) focused on peripancreatic vessel segmentation and labeling has been accepted by <b>*Artificial Intelligence in Medicine*</b>. The highlights of this study can be summarized as follows:
+- February, 2024, [our paper](https://doi.org/10.1016/j.artmed.2024.102825) focused on peripancreatic vessel segmentation and labeling has been accepted by <b>*Artificial Intelligence in Medicine*</b>. The highlights of this study can be summarized as follows:
   - A novel framework is introduced for peripancreatic vessel segmentation and labeling.
   - An iterative trunk growth module is designed for vessel segmentation improvement.
   - A weakly supervised labeling mechanism is proposed for vessel branch identification.
@@ -48,9 +48,9 @@ Recent News
   - We achieve better segmentation performance for peripancreatic vessel compared to the state-of-the-art methods.
   - We achieve competitive labeling performance for peripancreatic vessel compared to the fully supervised method.
  
-- December, 2023, [our manuscript](https://doi.org/10.1109/JBHI.2023.3340686) entitled "A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors" has been accepted by <b>*IEEE Journal of Biomedical and Health Informatics*</b>.
+- December, 2023, [our paper](https://doi.org/10.1109/JBHI.2023.3340686) entitled "A Weakly Supervised Segmentation Network Embedding Cross-scale Attention Guidance and Noise-sensitive Constraint for Detecting Tertiary Lymphoid Structures of Pancreatic Tumors" has been accepted by <b>*IEEE Journal of Biomedical and Health Informatics*</b>.
  
-- August, 2023, our [new work](https://doi.org/10.1088/1361-6560/acf110) focused on dilated pancreatic duct segmentation in CT images has been accepted by <b>*Physics in Medicine and Biology*</b>. The highlights of this study can be summarized as follows:
+- August, 2023, [our paper](https://doi.org/10.1088/1361-6560/acf110) focused on dilated pancreatic duct segmentation in CT images has been accepted by <b>*Physics in Medicine and Biology*</b>. The highlights of this study can be summarized as follows:
   - We propose a novel cascaded segmentation framework driven by terminal guidance mechanism for the dilated pancreatic duct segmentation.
   - A terminal anatomy-aware module is designed to take the local intensity, feature cues of the targets and global anatomy information into account to improve the terminal segmentation performance.
   - A terminal distraction attention module is introduced to explicitly learn the distribution of the distraction tissues for reducing the false positive and false negative predictions.
