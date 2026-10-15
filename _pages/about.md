@@ -29,7 +29,9 @@ Recent News
 
 - October, 2025, [our paper](https://doi.org/10.1088/1402-4896/ae176e) entitled "Medical Image Segmentation Started from a Single Point Annotation: A Novel Variational Mode" has been accepted by <b>*Physica Scripta*</b>. 
 
-- September, 2025, [our paper]([https://doi.org/10.1088/1402-4896/ae176e](https://doi.org/10.1080/07853890.2025.2568116)) entitled "Deep learning to predict extrapancreatic perineural invasion at CT images" has been accepted by <b>*Annals of Medicine*</b>. 
+- September, 2025, [our paper](https://doi.org/10.1080/07853890.2025.2568116) entitled "Deep learning to predict extrapancreatic perineural invasion at CT images" has been accepted by <b>*Annals of Medicine*</b>.
+
+- February, 2025, [our paper](https://doi.org/10.1186/s12880-025-01621-4) entitled "Combining artificial intelligence assisted image segmentation and ultrasound based radiomics for the prediction of carotid plaque stability" has been accepted by <b>*BMC Medical Imaging*</b>. 
 
 - February, 2025, [our paper](https://doi.org/10.1016/j.media.2025.103539) focused on pancreas and pancreatic cancer segmentation has been accepted by <b>*Medical Image Analysis*</b>. The highlights of this study can be summarized as follows:
   - A novel framework is proposed for pancreas and pancreatic cancer segmentation.
