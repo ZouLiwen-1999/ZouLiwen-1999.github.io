@@ -9,18 +9,27 @@ redirect_from:
 
 About me 
 ======
-- I am a Ph.D. candidate at School of Mathematics in [Nanjing University](https://www.nju.edu.cn/) since 2020, focusing on AI for medical image analysis and biomedical engineering, supervised by [Prof. Xiaoping Yang](https://math.nju.edu.cn/jzyg/apypl/20240321/i261837.html)
+- I am a postdoctoral fellow at [the Hong Kong Polytechnic University](https://www.polyu.edu.hk/), working with [Prof. Defeng Sun](https://www.polyu.edu.hk/ama/profile/dfsun/).
 
-- Previously, I received a Bachelor’s Degree at School of Mathematics in [South China University of Technology](https://www.scut.edu.cn/) in 2020, advised by [Prof. Delu Zeng](https://scut-dacim.github.io/probre.html)
+- Previously, I completed my Ph.D. at [Nanjing University](https://www.nju.edu.cn/) and my B.S. at [South China University of Technology](https://www.scut.edu.cn/)
+
+- I am interested in medical image analysis, building multi-modal medical foundation models and developing medical agents.
 
 - You can find my CV here: [Liwen Zou's CV](https://github.com/ZouLiwen-1999/ZouLiwen-1999.github.io/blob/master/files/LiwenZou-CV.pdf)
 
 
 Recent News 
 ======
-- November 3, 2025, I passed my Ph.D. defence!
+
+- July, 2026, [our paper](https://doi.org/10.1016/j.bspc.2026.111003) entitled "ACRS: Active contour-regularized semi-supervised framework for carotid plaque segmentation in ultrasound images with limited labels" has been accepted by <b>*Biomedical Signal Processing and Control*</b>.
+  
+- March, 2026, [our paper](https://doi.org/10.1016/j.bspc.2026.110178) entitled "MetaScope: A novel hierarchical framework for predicting distant metastasis of nasopharyngeal carcinoma from class-imbalanced PET/CT images" has been accepted by <b>*Biomedical Signal Processing and Control*</b>.
+  
+- January, 2026, [our paper](https://doi.org/10.1088/2057-1976/ae3966) entitled "Learning the anatomical topology consistency driven by Wasserstein distance for weakly supervised 3D pancreas registration in multi-phase CT images" has been accepted by <b>*Biomedical Physics & Engineering Express*</b>. 
 
 - October, 2025, [our paper](https://doi.org/10.1088/1402-4896/ae176e) entitled "Medical Image Segmentation Started from a Single Point Annotation: A Novel Variational Mode" has been accepted by <b>*Physica Scripta*</b>. 
+
+- September, 2025, [our paper]([https://doi.org/10.1088/1402-4896/ae176e](https://doi.org/10.1080/07853890.2025.2568116)) entitled "Deep learning to predict extrapancreatic perineural invasion at CT images" has been accepted by <b>*Annals of Medicine*</b>. 
 
 - February, 2025, our [new work](https://doi.org/10.1016/j.media.2025.103539) focused on pancreas and pancreatic cancer segmentation has been accepted by <b>*Medical Image Analysis*</b>. The highlights of this study can be summarized as follows:
   - A novel framework is proposed for pancreas and pancreatic cancer segmentation.
